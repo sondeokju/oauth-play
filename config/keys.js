@@ -12,7 +12,7 @@ module.exports = {
     },
     options: {
         user: "dbuser",
-        pass: "soft0413"
+        pass: "1234"
     }
 };
 
