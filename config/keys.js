@@ -9,5 +9,11 @@ module.exports = {
     },
     sessioon: {
         cookieKey: 'thskdkjkdjfkdjfkdjkfjdkjf'
+    },
+    options: {
+        user: "dbuser",
+        pass: "soft0413"
     }
 };
+
+

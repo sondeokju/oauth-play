@@ -21,12 +21,7 @@ app.use(passport.session());
 
 
 //connect to mongodb
-var options = {
-        user: "dbuser",
-        pass: "soft0413"
-    };
-
-mongoose.connect('@ds137651.mlab.com:37651/chat', options, () => {
+mongoose.connect('@ds137651.mlab.com:37651/chat', keys.options, () => {
     console.log('connected to mongodb');
 });
 
