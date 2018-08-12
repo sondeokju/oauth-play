@@ -6,5 +6,8 @@ module.exports = {
     },
     mongodb: {
         dbURl: '@ds137651.mlab.com:37651/chat'
+    },
+    sessioon: {
+        cookieKey: 'thskdkjkdjfkdjfkdjkfjdkjf'
     }
 };
